@@ -1,5 +1,5 @@
 opencart:
-  image: vimagick/opencart
+  image: mostley/opencart
   ports:
     - "8000:80"
   links:
